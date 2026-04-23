@@ -1,3 +1,7 @@
+// SPDX-FileCopyrightText: 2026 Ryan Cao <hello@ryanccn.dev>
+//
+// SPDX-License-Identifier: AGPL-3.0-or-later
+
 module github.com/ryanccn/polyscale
 
 go 1.26.1
